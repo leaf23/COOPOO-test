@@ -9,6 +9,9 @@ public class tessst
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     private int x;
+    private String name;
+    private int age;
+    
 
     /**
      * Constructeur d'objets de classe tessst
